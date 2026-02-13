@@ -164,7 +164,7 @@ high-quality visual solutions.
 
 <div class="card">
 <h2>Contact</h2>
-<p>Email: your@email.com</p>
+<p>Email:ar3989196@email.com</p>
 <p>Location: Khulna, Bangladesh</p>
 </div>
 
